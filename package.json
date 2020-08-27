@@ -1,7 +1,7 @@
 {
-  "name": "hellonpm", // The name of your project
-  "version": "0.0.1", // The version of your project
-  "description": "The hellonpm is a quick node test", // The description of your project
+  "name": "hellonpm",
+  "version": "0.0.1",
+  "description": "The hellonpm is a quick node test",
   "main": "index.js"
-  "license": "MIT" // The license of your project
+  "license": "MIT"
 }
