@@ -1,7 +1,0 @@
-{
-  "name": "hellonpm",
-  "version": "0.0.1",
-  "description": "The hellonpm is a quick node test",
-  "main": "index.js",
-  "license": "MIT"
-}

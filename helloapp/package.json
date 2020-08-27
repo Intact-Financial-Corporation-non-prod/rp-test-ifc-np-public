@@ -1,0 +1,6 @@
+{
+  "name": "helloapp",
+  "version": "0.0.1",
+  "description": "The hello is a quick node test",
+  "main": "hello.js"
+}
